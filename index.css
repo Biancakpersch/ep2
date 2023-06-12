@@ -1,0 +1,59 @@
+.logoREV{
+    max-width:8rem;
+    max-height:8rem;
+    
+}
+
+nav{
+    margin-top: 1rem;
+}
+
+header {
+    background-color:blanchedalmond;
+    display: flex;
+    padding: 1rem;
+   
+}
+
+
+nav li{ 
+    display: inline; 
+    margin: 5rem; 
+    
+}
+
+nav a{ 
+    text-decoration: none;
+    font-size: 1.5rem;
+    color:white;
+    border: solid rgb(201, 0, 0);
+    background:rgb(2, 56, 149); 
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+footer{
+    text-align: center;
+    background-color:blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+main{
+    text-align: justify; 
+    margin: 5rem; 
+    padding: 3rem; 
+    
+}
+
+
+.t_main{
+    text-align: center;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+
+ 
